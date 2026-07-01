@@ -18,12 +18,12 @@ Além da proposta educacional, o projeto prioriza uma boa experiência de uso at
 
 ## ✨ Funcionalidades
 
-- 🔍 Pesquisa de conteúdos sobre Filosofia e Sociologia
-- 🌎 Conteúdos organizados por temas, épocas e locais
-- 🌙 Modo escuro
-- 🎨 Interface minimalista
-- 📱 Layout responsivo
-- ⚡ Navegação rápida e intuitiva
+- Pesquisa de conteúdos sobre Filosofia e Sociologia
+- Conteúdos organizados por temas, épocas e locais
+- Modo escuro
+- Interface minimalista
+- Layout responsivo
+- Navegação rápida e intuitiva
 
 ---
 
@@ -94,6 +94,6 @@ O Vita demonstra como a tecnologia pode contribuir para a educação, oferecendo
 
 Disciplina: **Programação em Novas Tecnologias (PNT)**
 
-Professor Orientador: **Alamy**
+Professor Orientador: **Tereza/Alamy**
 
 Recife - 2026
