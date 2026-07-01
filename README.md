@@ -2,7 +2,7 @@
 
 O **Vita** é uma plataforma digital desenvolvida como projeto da disciplina **Programação em Novas Tecnologias (PNT)** da ETE Porto Digital.
 
-Seu principal objetivo é facilitar o acesso ao conhecimento em **Filosofia** e **Sociologia**, oferecendo uma experiência simples, intuitiva e acessível para estudantes e interessados nessas áreas.
+Seu principal objetivo é facilitar o acesso ao conhecimento em Cosmovisão, oferecendo uma experiência simples, intuitiva e acessível para estudantes e interessados nessas áreas.
 
 ---
 
@@ -18,7 +18,7 @@ Além da proposta educacional, o projeto prioriza uma boa experiência de uso at
 
 ## ✨ Funcionalidades
 
-- Pesquisa de conteúdos sobre Filosofia e Sociologia
+- Pesquisa de conteúdos sobre Relgião, Sociologia, Filosofia e Cultura
 - Conteúdos organizados por temas, épocas e locais
 - Modo escuro
 - Interface minimalista
