@@ -18,7 +18,7 @@ Além da proposta educacional, o projeto prioriza uma boa experiência de uso at
 
 ## ✨ Funcionalidades
 
-- Pesquisa de conteúdos sobre Relgião, Sociologia, Filosofia e Cultura
+- Pesquisa de conteúdos sobre Religião, Sociologia, Filosofia e Cultura
 - Conteúdos organizados por temas, épocas e locais
 - Modo escuro
 - Interface minimalista
@@ -53,7 +53,7 @@ Permite ao usuário alternar entre o modo claro e escuro para melhorar a experi�
 
 ## 🎯 Objetivos
 
-- Tornar o estudo de Filosofia e Sociologia mais acessível.
+- Tornar o estudo de Cosmovisão mais acessível.
 - Incentivar o aprendizado por meio da tecnologia.
 - Oferecer uma plataforma simples, rápida e intuitiva.
 - Melhorar a experiência do usuário utilizando princípios de usabilidade e design minimalista.
